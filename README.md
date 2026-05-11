@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Armend 👋
 
-<!--
-**aHozi/aHozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Information Engineering student at the Technical University of Munich** with a strong interest in **software development, artificial intelligence, data science, and startups**.
 
-Here are some ideas to get you started:
+I enjoy building practical projects, learning new technologies, and improving my programming skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Studying **Information Engineering** at **TUM**
+- 💻 Interested in **backend development, AI, data science, and full-stack applications**
+- 🧠 Always learning and improving my technical skills
+- 🛠️ I like building real-world projects that solve useful problems
+
+
+---
+
+## 📌 Projects
+
+---
+
+### 🎮 Maze Runner Game
+A school programming project where I built a simple maze runner game.
+
+**Main idea:**
+- The player moves through a maze
+- The goal is to find the exit
+- The game includes basic movement logic and problem-solving mechanics
+- Helped me practice programming, logic, and debugging
+
+**Skills used:**
+- Programming fundamentals
+- Game logic
+- Problem solving
+- Debugging
+
+---
+
+### 📰 Albanian News Bias Monitor
+A data project that analyzes political coverage in Albanian media.
+
+**Main idea:**
+- Scrape Albanian news articles
+- Clean and process article data
+- Detect political figures and parties
+- Compare media coverage between news sources
+- Visualize results in a dashboard
+
+**Technologies:**
+- Python
+- Scrapy
+- Kedro
+- spaCy
+- React
+  
+---
+
+## 📫 Connect With Me
+
+- GitHub: `aHozi`
+- LinkedIn: `linkedin.com/in/armendcerhozi/`
+- Email: `armendcerhozi@gmail.com`
+
+---
